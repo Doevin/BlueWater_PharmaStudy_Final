@@ -205,7 +205,7 @@ const PatientPopout = ({ isOpen, handleClose, patient }) => {
               color: viewMode === "input" ? "white" : "primary.main",
             }}
           >
-            Viral Load
+            Viral Load Test
           </Button>
         </Box>
         {renderPatientData()}
